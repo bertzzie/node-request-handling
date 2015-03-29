@@ -1,0 +1,14 @@
+{
+    "name": "NodeJSRequestHandling",
+    "version": "0.0.0",
+    "description": "NodeJSRequestHandling",
+    "main": "server.js",
+    "author": {
+        "name": "berts",
+        "email": ""
+    },
+    // Bagian yang menambahkan multiparty
+    "dependencies": {
+        "multiparty": "4.1.1"
+    }
+}
