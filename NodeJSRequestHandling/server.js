@@ -106,7 +106,7 @@ var HandleRequest = function (request, response) {
         case "PUT":
             // Kode untuk HTTP PUT
             break;
-        case "DELETE"
+        case "DELETE":
             // Kode untuk HTTP DELETE
             break;
         default:
